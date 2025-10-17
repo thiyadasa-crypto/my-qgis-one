@@ -1,0 +1,95 @@
+2025-10-06 10:47:50,521 --- version: Python-client/0.8.0 Plugin/2023.4.1 QGIS/3.16.16 (Windows/10)
+2025-10-06 10:47:50,521 --- start push thiyada/survey191
+2025-10-06 10:47:51,418 got project info: local version v0 / server version v0
+2025-10-06 10:47:52,313 checkpoint - going to add it in C:\Users\ธิดาญา\เดสก์ท็อป\contour Qgis\survey191\รวมทั้งหมด_Layer_1.gpkg
+2025-10-06 10:47:52,317 checkpoint - return value: (0, 0, 0)
+2025-10-06 10:47:52,324 checkpoint - new size 106496 checksum 54002f5a148143b204d984aa7efd855f28e29924
+2025-10-06 10:47:52,324 checkpoint - going to add it in C:\Users\ธิดาญา\เดสก์ท็อป\contour Qgis\survey191\รวมทั้งหมด_Zone_Aฝั่งหอชาย-หอ9หลัง.gpkg
+2025-10-06 10:47:52,336 checkpoint - return value: (0, 1, 1)
+2025-10-06 10:47:52,340 checkpoint - new size 73728 checksum d5ccd151ab816d927dd7be326111a2fa5593c666
+2025-10-06 10:47:52,340 checkpoint - going to add it in C:\Users\ธิดาญา\เดสก์ท็อป\contour Qgis\survey191\รวมทั้งหมด_Zone_ต้นสักสายรหัส.gpkg
+2025-10-06 10:47:52,341 checkpoint - return value: (0, 0, 0)
+2025-10-06 10:47:52,345 checkpoint - new size 102400 checksum f15c80d19fceaee0fc2640639898a8db4a569b11
+2025-10-06 10:47:52,346 checkpoint - going to add it in C:\Users\ธิดาญา\เดสก์ท็อป\contour Qgis\survey191\รวมทั้งหมด_Zone_ต้นสักสายรหัส_1.gpkg
+2025-10-06 10:47:52,347 checkpoint - return value: (0, 0, 0)
+2025-10-06 10:47:52,350 checkpoint - new size 102400 checksum 8c6d72783656fbeae3dbaf093b98fff719baedad
+2025-10-06 10:47:52,351 checkpoint - going to add it in C:\Users\ธิดาญา\เดสก์ท็อป\contour Qgis\survey191\รวมทั้งหมด_ขยะ.gpkg
+2025-10-06 10:47:52,352 checkpoint - return value: (0, 0, 0)
+2025-10-06 10:47:52,356 checkpoint - new size 98304 checksum 1be353fea841521467f2ef326ff77bb75ff15c1c
+2025-10-06 10:47:52,357 checkpoint - going to add it in C:\Users\ธิดาญา\เดสก์ท็อป\contour Qgis\survey191\รวมทั้งหมด_ถนนชำรุด.gpkg
+2025-10-06 10:47:52,358 checkpoint - return value: (0, 0, 0)
+2025-10-06 10:47:52,362 checkpoint - new size 102400 checksum ac79fcabd97183e034e1758fa4a7126233bee329
+2025-10-06 10:47:52,362 checkpoint - going to add it in C:\Users\ธิดาญา\เดสก์ท็อป\contour Qgis\survey191\รวมทั้งหมด_เนินชะลอ.gpkg
+2025-10-06 10:47:52,363 checkpoint - return value: (0, 0, 0)
+2025-10-06 10:47:52,369 checkpoint - new size 102400 checksum 57c5183b86be255325b4d4ff5fae35b9de2cfeee
+2025-10-06 10:47:52,370 push changes:
+{'added': [{'checksum': '5d4e295a1ddb46dd9dcb4595bb4c37b84d167e0d',
+            'chunks': ['d720eb7c-c4eb-49bb-b518-d2ff17e72119'],
+            'mtime': datetime.datetime(2025, 10, 6, 10, 47, 49, 218103, tzinfo=tzlocal()),
+            'path': 'survey191.qgz',
+            'size': 13824},
+           {'checksum': '54002f5a148143b204d984aa7efd855f28e29924',
+            'chunks': ['6ca4aa6d-117b-4e7b-8970-d67f77acd0c1'],
+            'mtime': datetime.datetime(2025, 10, 6, 10, 47, 48, 711712, tzinfo=tzlocal()),
+            'path': 'รวมทั้งหมด_Layer_1.gpkg',
+            'size': 106496},
+           {'checksum': 'd5ccd151ab816d927dd7be326111a2fa5593c666',
+            'chunks': ['1d591393-01c5-4b6f-bc17-192fb0eb1c26'],
+            'mtime': datetime.datetime(2025, 10, 6, 10, 47, 48, 593385, tzinfo=tzlocal()),
+            'path': 'รวมทั้งหมด_Zone_Aฝั่งหอชาย-หอ9หลัง.gpkg',
+            'size': 73728},
+           {'checksum': 'f15c80d19fceaee0fc2640639898a8db4a569b11',
+            'chunks': ['1286a2f6-341b-4ee3-b639-870472d0ce1a'],
+            'mtime': datetime.datetime(2025, 10, 6, 10, 47, 48, 794802, tzinfo=tzlocal()),
+            'path': 'รวมทั้งหมด_Zone_ต้นสักสายรหัส.gpkg',
+            'size': 102400},
+           {'checksum': '8c6d72783656fbeae3dbaf093b98fff719baedad',
+            'chunks': ['0ccc28aa-13b2-41b1-b4a1-7e078763663a'],
+            'mtime': datetime.datetime(2025, 10, 6, 10, 47, 48, 889600, tzinfo=tzlocal()),
+            'path': 'รวมทั้งหมด_Zone_ต้นสักสายรหัส_1.gpkg',
+            'size': 102400},
+           {'checksum': '1be353fea841521467f2ef326ff77bb75ff15c1c',
+            'chunks': ['293b4486-15a0-4c06-ae24-5593b51662e0'],
+            'mtime': datetime.datetime(2025, 10, 6, 10, 47, 48, 967101, tzinfo=tzlocal()),
+            'path': 'รวมทั้งหมด_ขยะ.gpkg',
+            'size': 98304},
+           {'checksum': 'ac79fcabd97183e034e1758fa4a7126233bee329',
+            'chunks': ['b11a9b43-7cc8-4ca6-977f-7958610fea9e'],
+            'mtime': datetime.datetime(2025, 10, 6, 10, 47, 49, 47465, tzinfo=tzlocal()),
+            'path': 'รวมทั้งหมด_ถนนชำรุด.gpkg',
+            'size': 102400},
+           {'checksum': '57c5183b86be255325b4d4ff5fae35b9de2cfeee',
+            'chunks': ['1e139220-7030-4fd5-b068-0a901ae08af9'],
+            'mtime': datetime.datetime(2025, 10, 6, 10, 47, 49, 129897, tzinfo=tzlocal()),
+            'path': 'รวมทั้งหมด_เนินชะลอ.gpkg',
+            'size': 102400}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': []}
+2025-10-06 10:47:52,370 Making a temporary copy (full upload): รวมทั้งหมด_Layer_1.gpkg
+2025-10-06 10:47:52,378 Making a temporary copy (full upload): รวมทั้งหมด_Zone_Aฝั่งหอชาย-หอ9หลัง.gpkg
+2025-10-06 10:47:52,387 Making a temporary copy (full upload): รวมทั้งหมด_Zone_ต้นสักสายรหัส.gpkg
+2025-10-06 10:47:52,396 Making a temporary copy (full upload): รวมทั้งหมด_Zone_ต้นสักสายรหัส_1.gpkg
+2025-10-06 10:47:52,405 Making a temporary copy (full upload): รวมทั้งหมด_ขยะ.gpkg
+2025-10-06 10:47:52,414 Making a temporary copy (full upload): รวมทั้งหมด_ถนนชำรุด.gpkg
+2025-10-06 10:47:52,423 Making a temporary copy (full upload): รวมทั้งหมด_เนินชะลอ.gpkg
+2025-10-06 10:47:53,552 got transaction ID 1d9d7938-7806-4395-8026-7443df1b9ab4
+2025-10-06 10:47:53,554 will upload 8 items with total size 701952
+2025-10-06 10:47:53,564 Uploading C:\Users\ธิดาญา\เดสก์ท็อป\contour Qgis\survey191\survey191.qgz part=0
+2025-10-06 10:47:53,566 Uploading C:\Users\25FA~1\AppData\Local\Temp\mergin-py-client-x5077hcb\รวมทั้งหมด_Layer_1.gpkg part=0
+2025-10-06 10:47:53,568 Uploading C:\Users\25FA~1\AppData\Local\Temp\mergin-py-client-x5077hcb\รวมทั้งหมด_Zone_Aฝั่งหอชาย-หอ9หลัง.gpkg part=0
+2025-10-06 10:47:53,570 Uploading C:\Users\25FA~1\AppData\Local\Temp\mergin-py-client-x5077hcb\รวมทั้งหมด_Zone_ต้นสักสายรหัส.gpkg part=0
+2025-10-06 10:47:54,890 Upload finished: C:\Users\ธิดาญา\เดสก์ท็อป\contour Qgis\survey191\survey191.qgz
+2025-10-06 10:47:54,896 Uploading C:\Users\25FA~1\AppData\Local\Temp\mergin-py-client-x5077hcb\รวมทั้งหมด_Zone_ต้นสักสายรหัส_1.gpkg part=0
+2025-10-06 10:47:55,069 Upload finished: C:\Users\25FA~1\AppData\Local\Temp\mergin-py-client-x5077hcb\รวมทั้งหมด_Zone_Aฝั่งหอชาย-หอ9หลัง.gpkg
+2025-10-06 10:47:55,074 Uploading C:\Users\25FA~1\AppData\Local\Temp\mergin-py-client-x5077hcb\รวมทั้งหมด_ขยะ.gpkg part=0
+2025-10-06 10:47:55,400 Upload finished: C:\Users\25FA~1\AppData\Local\Temp\mergin-py-client-x5077hcb\รวมทั้งหมด_Layer_1.gpkg
+2025-10-06 10:47:55,407 Uploading C:\Users\25FA~1\AppData\Local\Temp\mergin-py-client-x5077hcb\รวมทั้งหมด_ถนนชำรุด.gpkg part=0
+2025-10-06 10:47:55,431 Upload finished: C:\Users\25FA~1\AppData\Local\Temp\mergin-py-client-x5077hcb\รวมทั้งหมด_Zone_ต้นสักสายรหัส.gpkg
+2025-10-06 10:47:55,436 Uploading C:\Users\25FA~1\AppData\Local\Temp\mergin-py-client-x5077hcb\รวมทั้งหมด_เนินชะลอ.gpkg part=0
+2025-10-06 10:47:56,675 Upload finished: C:\Users\25FA~1\AppData\Local\Temp\mergin-py-client-x5077hcb\รวมทั้งหมด_Zone_ต้นสักสายรหัส_1.gpkg
+2025-10-06 10:47:56,866 Upload finished: C:\Users\25FA~1\AppData\Local\Temp\mergin-py-client-x5077hcb\รวมทั้งหมด_ขยะ.gpkg
+2025-10-06 10:47:57,071 Upload finished: C:\Users\25FA~1\AppData\Local\Temp\mergin-py-client-x5077hcb\รวมทั้งหมด_เนินชะลอ.gpkg
+2025-10-06 10:47:57,117 Upload finished: C:\Users\25FA~1\AppData\Local\Temp\mergin-py-client-x5077hcb\รวมทั้งหมด_ถนนชำรุด.gpkg
+2025-10-06 10:47:57,166 Finishing transaction 1d9d7938-7806-4395-8026-7443df1b9ab4
+2025-10-06 10:47:58,953 --- push finished - new project version v1
